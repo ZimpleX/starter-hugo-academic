@@ -1,7 +1,7 @@
 ---
 role: PhD candidate in computer engineering
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: "My main research interests are model, algorithm and system designs for
+  large scale graph learning. "
 interests:
   - Artificial Intelligence
   - Computational Linguistics
