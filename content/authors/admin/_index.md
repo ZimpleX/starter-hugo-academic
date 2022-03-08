@@ -1,49 +1,41 @@
 ---
-role: PhD candidate in computer engineering
+role: PhD candidate in Computer Engineering
 bio: "My main research interests are model, algorithm and system designs for
   large scale graph learning. "
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Graph-representation-learning
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/zimplex4
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=ubUx3R0AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/ZimpleX
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/hanqing-zeng-a9477995/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Southern California
+    url: ""
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Engineering
+      institution: University of Southern California
+      year: 2022
+    - course: Bachelor of Engineering
+      institution: University of Hong Kong
+      year: 2014
 superuser: true
 highlight_name: true
 title: Hanqing Zeng
-email: ""
+email: zengh@usc.edu
 ---
+I am a PhD candidate in Computer Engineering at USC, supervised by Prof. Viktor Prasanna. My main research goal is to improve the scalability, accuracy and efficiency of large scale graph learning. Towards the goal, during my PhD, I design new models, training/inference algorithms and hardware systems for Graph Neural Networks; after graduation, I will join Facebook/Meta AI as a research scientist to further explore practical solutions in web-scale social recommendation. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Beyond graph learning, I am also generally interested in solving memory and computation intensive problems by algorithm-architecture mapping approaches. In my initial years of PhD, I accelerated the computation of Convolutional Neural Networks and graph analytics via parallelization on heterogeneous platforms (GPU, CPU and FPGA).
