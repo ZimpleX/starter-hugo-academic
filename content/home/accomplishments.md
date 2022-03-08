@@ -30,7 +30,7 @@ item:
 widget_id: recent-accomplishments
 headless: true
 weight: 50
-title: Accomplish&shy;ments
+title: Accomplishments
 subtitle: null
 design:
   columns: "2"
