@@ -3,7 +3,7 @@ role: PhD candidate in Computer Engineering
 bio: "My main research interests are model, algorithm and system designs for
   large scale graph learning. "
 interests:
-  - Graph-representation-learning
+  - Graph representation learning; Parallel & distributed computing; Graph infra;
 social:
   - icon: envelope
     icon_pack: fas
