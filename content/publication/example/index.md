@@ -28,7 +28,7 @@ url_source: ""
 url_video: ""
 publication: Advances in Neural Information Processing
 featured: true
-date: 2022-03-08T07:42:27.146Z
+date: 2021-12-08T07:48:00.000Z
 url_slides: ""
 title: Decoupoling the depth and scope of Graph Neural Networks
 tags:
@@ -39,7 +39,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: ""
