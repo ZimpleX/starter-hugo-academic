@@ -26,7 +26,7 @@ author_notes: []
 publication_short: NeurIPS
 url_source: ""
 url_video: ""
-publication: Advances in Neural Information Processing
+publication: Advances in Neural Information Processing Systems (NeurIPS)
 featured: true
 date: 2021-12-08T07:48:00.000Z
 url_slides: ""
