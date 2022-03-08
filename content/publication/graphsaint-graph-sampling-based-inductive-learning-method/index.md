@@ -8,6 +8,9 @@ authors:
   - Ajitesh Srivastava
   - Rajgopal Kannan
   - Viktor Prasanna
+author_notes:
+  - equal contribution
+  - equal contribution
 publication: International Conference on Learning Representations (ICLR)
 publication_short: ICLR
 draft: false
