@@ -30,7 +30,7 @@ education:
       year: 2022
     - course: Bachelor of Engineering
       institution: University of Hong Kong
-      year: 2014
+      year: 2016
 superuser: true
 highlight_name: true
 title: Hanqing Zeng
