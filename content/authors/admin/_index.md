@@ -1,7 +1,6 @@
 ---
 role: PhD candidate in Computer Engineering
-bio: "My main research interests are model, algorithm and system designs for
-  large scale graph learning. "
+bio: "I design models, algorithms and systems for large scale graph learning. "
 interests:
   - Graph representation learning; Parallel & distributed computing; Graph infra;
 social:
