@@ -1,5 +1,6 @@
 ---
 title: "VTR 8: High-performance CAD and customizable FPGA architecture modelling"
+subtitle: Best paper award
 publication_types:
   - "2"
 authors:
@@ -42,5 +43,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2020-06-01T06:10:43.631Z
-url_code: "https://github.com/verilog-to-routing/vtr-verilog-to-routing"
+url_code: https://github.com/verilog-to-routing/vtr-verilog-to-routing
 ---
