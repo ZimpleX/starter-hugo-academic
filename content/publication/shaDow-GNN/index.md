@@ -20,6 +20,17 @@ summary: >-
 
 
   Code: https://github.com/facebookresearch/shaDow_GNN
+# links:
+# - name: Custom Link
+#   url: http://example.org
+# url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 url_dataset: ""
 url_project: ""
 author_notes: []
@@ -41,13 +52,6 @@ image:
   preview_only: false
 publishDate: 2021-12-08T00:00:00.000Z
 url_poster: ""
-url_code: ""
+url_code: "https://github.com/facebookresearch/shaDow_GNN"
 doi: ""
 ---
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
