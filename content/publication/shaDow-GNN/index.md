@@ -36,7 +36,6 @@ summary: >-
   oversmoothing & Overcoming neighborhood explosion
 
 
-
   * Official code: https://github.com/facebookresearch/shaDow_GNN
 
 
