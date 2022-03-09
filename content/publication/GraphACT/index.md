@@ -8,7 +8,7 @@ authors:
 doi: https://doi.org/10.1145/3373087.3375312
 publication: Proceedings of the 2020 ACM/SIGDA International Symposium on
   Field-Programmable Gate Arrays (FPGA)
-publication_short: FPGA
+publication_short: ACM/FPGA
 abstract: Graph Convolutional Networks (GCNs) have emerged as the
   state-of-the-art deep learning model for representation learning on graphs. It
   is challenging to accelerate training of GCNs, due to (1) substantial and
