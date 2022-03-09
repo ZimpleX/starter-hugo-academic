@@ -16,6 +16,7 @@ publication: International Conference on Learning Representations
 publication_short: ICLR
 draft: false
 featured: true
+url_code: "https://github.com/GraphSAINT/GraphSAINT"
 tags:
   - GNN
   - graph sampling
