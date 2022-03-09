@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Hongkuan Zhou
   - Ajitesh Srivastava
-  - Hanqing Zeng
+  - admin
   - Rajgopal Kannan
   - Viktor Prasanna
 doi: https://doi.org/10.14778/3461535.3461547
