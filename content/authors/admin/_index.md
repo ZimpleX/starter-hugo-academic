@@ -3,7 +3,8 @@ role: PhD candidate in Computer Engineering
 bio: "I design models, algorithms and systems for large scale graph learning. "
 interests:
   - Graph representation learning
-  - Parallel & distributed computing; Graph infra;
+  - Parallel & distributed computing
+  - Graph infra
 social:
   - icon: graduation-cap
     icon_pack: fas
