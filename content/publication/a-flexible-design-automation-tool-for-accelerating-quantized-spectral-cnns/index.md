@@ -1,5 +1,6 @@
 ---
 title: A flexible design automation tool for accelerating quantized spectral CNNs
+subtitle: Michal Servit Award Candidate
 publication_types:
   - "1"
 authors:
@@ -15,6 +16,9 @@ publication: 2019 29th International Conference on Field Programmable Logic and
 publication_short: IEEE/FPL
 draft: false
 featured: false
+tags:
+  - FPGA
+  - CNN
 image:
   filename: featured
   focal_point: Smart
