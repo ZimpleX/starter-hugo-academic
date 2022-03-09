@@ -3,7 +3,7 @@ title: Accurate, efficient and scalable graph embedding
 publication_types:
   - "1"
 authors:
-  - Hanqing Zeng
+  - admin
   - Hongkuan Zhou
   - Ajitesh Srivastava
   - Rajgopal Kannan
