@@ -14,6 +14,7 @@ authors:
   - Euna Kim
   - Oded Green
   - David A Bader
+doi: 10.1109/HPEC.2017.8091048
 publication: 2017 IEEE High Performance Extreme Computing Conference (HPEC)
 publication_short: IEEE/HPEC
 draft: false
