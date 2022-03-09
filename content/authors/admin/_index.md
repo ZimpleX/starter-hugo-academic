@@ -2,14 +2,9 @@
 role: PhD candidate in Computer Engineering
 bio: "I design models, algorithms and systems for large scale graph learning. "
 interests:
-  - Graph representation learning; Parallel & distributed computing; Graph infra;
+  - Graph representation learning
+  - Parallel & distributed computing; Graph infra;
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/zimplex4
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=ubUx3R0AAAAJ&hl=en
@@ -19,6 +14,12 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/hanqing-zeng-a9477995/
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/zimplex4
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
 organizations:
   - name: University of Southern California
     url: ""
