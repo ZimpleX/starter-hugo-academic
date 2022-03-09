@@ -38,7 +38,9 @@ summary: >-
 
   Official code: https://github.com/facebookresearch/shaDow_GNN
 
+
   PyTorch Geometric implementation: https://pytorch-geometric.readthedocs.io/en/latest/modules/loader.html#torch_geometric.loader.ShaDowKHopSampler
+
 
   Deep Graph Library implementation: https://docs.dgl.ai/en/latest/_modules/dgl/dataloading/shadow.html
 url_dataset: ""
