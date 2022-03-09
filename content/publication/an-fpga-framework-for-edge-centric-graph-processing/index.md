@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Shijie Zhou
   - Rajgopal Kannan
-  - Hanqing Zeng
+  - admin
   - Viktor K Prasanna
 doi: https://doi.org/10.1145/3203217.3203233
 publication: Proceedings of the 15th ACM International Conference on Computing Frontiers
