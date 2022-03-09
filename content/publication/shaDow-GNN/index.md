@@ -1,5 +1,22 @@
 ---
-abstract: ""
+abstract: 'State-of-the-art Graph Neural Networks (GNNs) have limited
+  scalability with respect to the graph and model sizes. On large graphs,
+  increasing the model depth often means exponential expansion of the scope
+  (i.e., receptive field). Beyond just a few layers, two fundamental challenges
+  emerge: 1. degraded expressivity due to oversmoothing, and 2. expensive
+  computation due to neighborhood explosion. We propose a design principle to
+  decouple the depth and scope of GNNs -- to generate representation of a target
+  entity (i.e., a node or an edge), we first extract a localized subgraph as the
+  bounded-size scope, and then apply a GNN of arbitrary depth on top of the
+  subgraph. A properly extracted subgraph consists of a small number of critical
+  neighbors, while excluding irrelevant ones. The GNN, no matter how deep it is,
+  smooths the local neighborhood into informative representation rather than
+  oversmoothing the global graph into "white noise". Theoretically, decoupling
+  improves the GNN expressive power from the perspectives of graph signal
+  processing (GCN), function approximation (GraphSAGE) and topological learning
+  (GIN). Empirically, on seven graphs (with up to 110M nodes) and six backbone
+  GNN architectures, our design achieves significant accuracy improvement with
+  orders of magnitude reduction in computation and hardware cost. '
 slides: ""
 url_pdf: ""
 publication_types:
@@ -19,18 +36,11 @@ summary: >-
   oversmoothing & Overcoming neighborhood explosion
 
 
-  Code: https://github.com/facebookresearch/shaDow_GNN
-# links:
-# - name: Custom Link
-#   url: http://example.org
-# url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-# url_dataset: '#'
-# url_poster: '#'
-# url_project: ''
-# url_slides: ''
-# url_source: '#'
-# url_video: '#'
+  Official code: https://github.com/facebookresearch/shaDow_GNN
+
+  PyTorch Geometric implementation: https://pytorch-geometric.readthedocs.io/en/latest/modules/loader.html#torch_geometric.loader.ShaDowKHopSampler
+
+  Deep Graph Library implementation: https://docs.dgl.ai/en/latest/_modules/dgl/dataloading/shadow.html
 url_dataset: ""
 url_project: ""
 author_notes: []
@@ -42,6 +52,7 @@ featured: true
 date: 2021-12-08T07:48:00.000Z
 url_slides: ""
 title: Decoupoling the depth and scope of Graph Neural Networks
+subtitle: Deep GNNs on shallow subgraphs
 tags:
   - GNN
 projects:
@@ -52,6 +63,6 @@ image:
   preview_only: false
 publishDate: 2021-12-08T00:00:00.000Z
 url_poster: ""
-url_code: "https://github.com/facebookresearch/shaDow_GNN"
+url_code: https://github.com/facebookresearch/shaDow_GNN
 doi: ""
 ---
