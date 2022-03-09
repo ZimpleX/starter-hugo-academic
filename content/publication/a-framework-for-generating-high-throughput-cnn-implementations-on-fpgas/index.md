@@ -4,7 +4,7 @@ subtitle: Best paper nominee
 publication_types:
   - "1"
 authors:
-  - Hanqing Zeng
+  - admin
   - Ren Chen
   - Chi Zhang
   - Viktor Prasanna
