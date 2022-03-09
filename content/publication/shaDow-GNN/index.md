@@ -36,13 +36,14 @@ summary: >-
   oversmoothing & Overcoming neighborhood explosion
 
 
-  Official code: https://github.com/facebookresearch/shaDow_GNN
+
+  * Official code: https://github.com/facebookresearch/shaDow_GNN
 
 
-  PyTorch Geometric implementation: https://pytorch-geometric.readthedocs.io/en/latest/modules/loader.html#torch_geometric.loader.ShaDowKHopSampler
+  * PyTorch Geometric implementation: https://pytorch-geometric.readthedocs.io/en/latest/modules/loader.html#torch_geometric.loader.ShaDowKHopSampler
 
 
-  Deep Graph Library implementation: https://docs.dgl.ai/en/latest/_modules/dgl/dataloading/shadow.html
+  * Deep Graph Library implementation: https://docs.dgl.ai/en/latest/_modules/dgl/dataloading/shadow.html
 url_dataset: ""
 url_project: ""
 author_notes: []
