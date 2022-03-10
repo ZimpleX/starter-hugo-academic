@@ -1,5 +1,5 @@
 ---
-title: Accelerating Large Scale Real-Time GNN Inference using Channel Pruning
+title: Accelerating large scale real-time GNN inference using channel pruning
 publication_types:
   - "1"
 authors:
