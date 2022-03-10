@@ -9,7 +9,7 @@ authors:
 doi: 10.1109/FCCM48280.2020.00074
 publication: 2020 IEEE 28th Annual International Symposium on Field-Programmable
   Custom Computing Machines (FCCM)
-publication_short: IEEE/FCCM
+publication_short: IEEE/FCCM (poster)
 abstract: We propose an algorithm-architecture co-optimization framework to
   accelerate large-scale GCN inference on FPGA. We first perform data
   partitioning to fit each partition in the limited on-chip memory of FPGA.
