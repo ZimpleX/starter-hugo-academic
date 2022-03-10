@@ -32,8 +32,8 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Developing graph engine to support large scale GNN computation on production data
-        * Developing new GNN models for heterogeneous graphs
+        * Developed graph engine to support large scale GNN computation on production data
+        * Developed new GNN models for heterogeneous graphs
         
   - title: Research intern
     company: Facebook AI
@@ -45,8 +45,8 @@ experience:
     description: |2-
         Responsibilities include:
 
-        * Integrating state-of-the-art minibatch GNN training methods (e.g., GraphSAINT) into internal infrastructure
-        * Developing new GNN models for orders of magnitude improvements in scalability (shaDow-GNN)
+        * Integrated state-of-the-art minibatch GNN training methods (e.g., GraphSAINT) into internal infrastructure
+        * Developed new GNN models for orders of magnitude improvements in scalability (shaDow-GNN)
   
   - title: Research assistant
     company: University of Southern California
@@ -59,7 +59,7 @@ experience:
         * Authored or Coauthored 20+ papers (1 best paper award + 2 best paper candidates)
         * Mentored 5+ junior PhD or Master students, and helped them publish their first papers
         * Contributed in 5+ DARPA and NSF projects
-        * Serving as reviewer or PC member for 10+ conferences and journals (outstanding reviewer award for ICLR 2021)
+        * Serving as reviewer or PC member for 10+ top conferences and journals (outstanding reviewer award for ICLR 2021)
 
 design:
   columns: '2'
