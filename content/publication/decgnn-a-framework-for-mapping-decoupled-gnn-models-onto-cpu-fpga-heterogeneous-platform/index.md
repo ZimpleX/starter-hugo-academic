@@ -10,7 +10,7 @@ authors:
 doi: https://doi.org/10.1145/3490422.3502326
 publication: Proceedings of the 2022 ACM/SIGDA International Symposium on
   Field-Programmable Gate Arrays
-publication_short: ACM/FPGA
+publication_short: ACM/FPGA (poster)
 abstract: "A well-known issue in mini-batch GNN inference is neighborhood
   explosion. This results in two challenges for its hardware acceleration: (1)
   high computation and communication costs resulting in high latency, and (2)
