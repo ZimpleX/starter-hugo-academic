@@ -44,7 +44,7 @@ summary: >-
 
   * Deep Graph Library implementation: https://docs.dgl.ai/en/latest/_modules/dgl/dataloading/shadow.html
 url_dataset: ""
-url_project: ""
+url_project: "https://github.com/facebookresearch/shaDow_GNN"
 author_notes: []
 publication_short: NeurIPS
 url_source: ""
@@ -60,7 +60,7 @@ tags:
 projects:
   - shaDow-GNN
 image:
-  caption: ""
+  caption: "Full shaDow-GNN architecture with subgraph ensemble"
   focal_point: ""
   preview_only: false
 publishDate: 2021-12-08T00:00:00.000Z
