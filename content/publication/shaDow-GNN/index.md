@@ -17,7 +17,7 @@ abstract: 'State-of-the-art Graph Neural Networks (GNNs) have limited
   (GIN). Empirically, on seven graphs (with up to 110M nodes) and six backbone
   GNN architectures, our design achieves significant accuracy improvement with
   orders of magnitude reduction in computation and hardware cost. '
-slides: "/NeurIPS21_slides.pdf"
+slides: ""
 url_pdf: ""
 publication_types:
   - "1"
@@ -52,7 +52,7 @@ url_video: ""
 publication: Advances in Neural Information Processing Systems (NeurIPS)
 featured: true
 date: 2021-12-08T07:48:00.000Z
-url_slides: ""
+url_slides: "NeurIPS21_slides.pdf"
 title: Decoupoling the depth and scope of Graph Neural Networks
 subtitle: Deep GNNs on shallow subgraphs
 tags:
