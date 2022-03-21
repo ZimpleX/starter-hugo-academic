@@ -64,7 +64,7 @@ image:
   focal_point: ""
   preview_only: false
 publishDate: 2021-12-08T00:00:00.000Z
-url_poster: ""
+url_poster: "NeurIPS21_poster.pdf"
 url_code: https://github.com/facebookresearch/shaDow_GNN
 doi: ""
 ---
