@@ -17,7 +17,7 @@ abstract: 'State-of-the-art Graph Neural Networks (GNNs) have limited
   (GIN). Empirically, on seven graphs (with up to 110M nodes) and six backbone
   GNN architectures, our design achieves significant accuracy improvement with
   orders of magnitude reduction in computation and hardware cost. '
-slides: ""
+slides: "/NeurIPS21_slides.pdf"
 url_pdf: ""
 publication_types:
   - "1"
