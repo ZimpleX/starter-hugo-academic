@@ -17,6 +17,7 @@ publication_short: ICLR
 draft: false
 featured: true
 url_code: "https://github.com/GraphSAINT/GraphSAINT"
+url_slides: "ICLR20_slides.pdf"
 tags:
   - GNN
   - graph sampling
