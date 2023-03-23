@@ -53,7 +53,7 @@ publication: Advances in Neural Information Processing Systems (NeurIPS)
 featured: true
 date: 2021-12-08T07:48:00.000Z
 url_slides: "NeurIPS21_slides.pdf"
-title: Decoupoling the depth and scope of Graph Neural Networks
+title: Decoupling the depth and scope of Graph Neural Networks
 subtitle: Deep GNNs on shallow subgraphs
 tags:
   - GNN
