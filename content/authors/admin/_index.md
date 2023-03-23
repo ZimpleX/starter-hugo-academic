@@ -1,5 +1,5 @@
 ---
-role: Research Scientist, Meta AI
+role: Research Scientist
 bio: "I design models, algorithms and systems for large scale graph learning. "
 interests:
   - Graph representation learning

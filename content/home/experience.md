@@ -22,6 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Scientist
+    company: Meta AI
+    location: Menlo Park, California
+    date_start: '2022-08-15'
+    description: |2-
+        Developing efficient graph learning models for large scale social recommendation
   - title: Research intern
     company: Facebook AI
     company_url: ''
@@ -58,8 +64,8 @@ experience:
 
         * Authored or Coauthored 20+ papers (1 best paper award + 2 best paper candidates)
         * Mentored 5+ junior PhD or Master students, and helped them publish their first papers
-        * Contributed in 5+ DARPA and NSF projects
-        * Serving as reviewer or PC member for 10+ top conferences and journals (outstanding reviewer award for ICLR 2021)
+        * Contributed to 5+ DARPA and NSF projects
+        * Serving as a reviewer or PC member for 20+ top conferences and journals (outstanding reviewer award for ICLR 2021 and ICML 2022)
 
 design:
   columns: '2'
