@@ -25,13 +25,13 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: zengh@usc.edu
+  email: zhqhku@gmail.com
   # phone: 888 888 88 88
   address:
-    street: 3740 McClintock Ave
-    city: Los Angeles
+    street: 1 Meta Wy
+    city: Menlo Park
     region: CA
-    postcode: '90089'
+    postcode: '94025'
     country: United States
     country_code: US
   # coordinates:
