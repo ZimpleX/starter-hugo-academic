@@ -65,7 +65,7 @@ experience:
         * Authored or Coauthored 20+ papers (1 best paper award + 2 best paper candidates)
         * Mentored 5+ junior PhD or Master students, and helped them publish their first papers
         * Contributed to 5+ DARPA and NSF projects
-        * Serving as a reviewer or PC member for 20+ top conferences and journals (outstanding reviewer award for ICLR 2021 and ICML 2022)
+        * Serving as a reviewer or PC member for 20+ top conferences and journals (outstanding reviewer award for ICLR 2021 and ICML 2022; top reviewer award for NeurIPS 2022)
 
 design:
   columns: '2'
